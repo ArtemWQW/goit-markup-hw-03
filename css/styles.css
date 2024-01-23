@@ -21,20 +21,30 @@ h3,
 h4,
 h5,
 h6,
-p {
+p,
+ul {
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .conteiner {
   width: 100%;
-  max-width: 1440px;
+  max-width: 1188px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
 }
 
+.section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 /*================HEADER-LOGO=========================*/
+
+.conteiner-header {
+  border-bottom: 1px solid var(--CORNFLOWER, #e7e9fc);
+  background: var(--WHITE, #fff);
+}
 
 .header-navi {
   padding-top: 24px;
@@ -288,7 +298,7 @@ p {
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .footer-logo {
@@ -302,7 +312,9 @@ p {
   cursor: pointer;
 }
 
-.footer-logo .footer-span{margin-bottom: 40px;}
+.footer-logo .footer-span {
+  margin-bottom: 40px;
+}
 
 .footer-text {
   width: 100%;
