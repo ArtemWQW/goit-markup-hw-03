@@ -29,7 +29,7 @@ ol {
   margin-bottom: 0;
 }
 
-.conteiner {
+.container {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
@@ -41,7 +41,7 @@ ol {
 }
 /*================HEADER-LOGO=========================*/
 
-.header-conteiner{display: flex;}
+.header-container{display: flex;}
 
 .header-cont {
   border-bottom: 1px solid #e7e9fc;
@@ -348,6 +348,8 @@ row-gap: 48px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   cursor: pointer;
+  margin-bottom: 16px;
+  display: inline-block;
 }
 
 
