@@ -97,6 +97,8 @@ ol {
   letter-spacing: 0.02em;
   cursor: pointer;
   display: block;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-navi-link:hover,
