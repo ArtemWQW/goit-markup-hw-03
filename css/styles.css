@@ -244,6 +244,8 @@ ol {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
+.team-item-list{padding: 32px 0;}
+
 .main-team-title {
   color: #2e2f42;
   text-align: center;
@@ -257,13 +259,13 @@ ol {
 
 .team-title-team {
   color: #2e2f42;
-  text-align: center;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2; /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;
   margin-bottom: 8px;
+  text-align: center; 
 }
 
 .main-team-text {
