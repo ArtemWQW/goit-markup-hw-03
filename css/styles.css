@@ -116,6 +116,7 @@ ol {
   padding-bottom: 24px;
   display: flex;
   margin-left: auto;
+  align-items: center;
 }
 
 
