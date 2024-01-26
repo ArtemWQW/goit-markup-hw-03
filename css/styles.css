@@ -270,12 +270,14 @@ ol {
 
 .main-team-img {
   margin-bottom: 32px;
+  display: block;
 }
 
 /*===================PORTFOLIO===========================*/
 
 .portfolio-jpg-b {
   margin-bottom: 32px;
+  display: block;
 }
 
 .portfolio-card{padding: 32px 16px;
